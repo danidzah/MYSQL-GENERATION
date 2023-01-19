@@ -2,6 +2,8 @@
 CREATE DATABASE RH;
 
 USE rh;
+
+
 CREATE TABLE colaboradores (
 	ID BIGINT auto_increment,
 	Nome VARCHAR (255),
